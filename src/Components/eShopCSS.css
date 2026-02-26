@@ -1,0 +1,37 @@
+.item-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+}
+
+.shop-header {
+    padding: 0%;
+    margin-top: -21px;
+}
+
+.shop-title {
+    text-align: center;
+    background: cyan;
+}
+
+.products-section {
+    text-align: center;
+    padding: 0 3px 3px 3px;
+    margin: 0;
+}
+
+.products-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.btn-add-cart {
+    background: rgba(28, 90, 237, 0.8);
+    border-radius: 5px;
+    color: whitesmoke;
+    border: none;
+    padding: 8px;
+    width: 100px;
+}
